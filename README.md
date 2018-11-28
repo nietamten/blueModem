@@ -5,7 +5,7 @@ It tries to use as few programs as possible to connect to the internet using a p
 
 Do not need a graphic environment. Need configured wvdial or chat (configuration example in the script comments).
 
-"Ugly" written - interprets the data displayed by other programs for the user data (data scraping). A good chance due to changes in the software will not work and will be necessary. 
+"Ugly" written - interprets the data displayed by other programs for the user data (data scraping?). A good chance due to changes in the software will not work. 
 
  I did not find anything similar that would work from the console. 
  
